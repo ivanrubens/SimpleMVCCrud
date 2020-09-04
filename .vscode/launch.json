@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/SimpleCRUD/bin/Debug/netcoreapp3.0/SimpleCRUD.dll",
+            "program": "${workspaceFolder}/src/SimpleCRUD/bin/Debug/netcoreapp3.0/SimpleCRUD.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/SimpleCRUD",
+            "cwd": "${workspaceFolder}/src/SimpleCRUD",
             "stopAtEntry": false,
             "serverReadyAction": {
                 "action": "openExternally",
